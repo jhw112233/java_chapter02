@@ -13,7 +13,7 @@ public class Test02 {
 		
 		double d1= Double.parseDouble(str2);//문자열을 실수로 변환!!!
 		
-		System.out.println(s1);
+		System.out.println(s1);//정수출력
 		System.out.println(d1);
 		
 		int i1=1234;
